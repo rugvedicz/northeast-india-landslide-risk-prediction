@@ -3,6 +3,11 @@ A machine-learning project that estimates landslide risk using geographic, weath
 Important: This is an educational/experimental prediction project, not an official early-warning system. Predictions should not be used as the sole basis for safety or emergency decisions.
 ## Dashboard
 ![Screenshot](Screenshot%202026-10-21%20154448.png)
+### Landslide Risk Area
+![Landslide Risk Map](Screenshot%202026-10-21%20154505.png)
+
+### Live Weather and Risk Prediction
+![Live Weather and Risk Prediction](Screenshot%202026-10-21%20154523.png)
 Table of Contents
 - Overview
 - Objectives

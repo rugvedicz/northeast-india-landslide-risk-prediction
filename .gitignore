@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Editor files
+.vscode/
+.idea/

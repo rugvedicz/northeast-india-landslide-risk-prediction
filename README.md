@@ -1,7 +1,8 @@
 # Northeast India Landslide Risk Prediction
 A machine-learning project that estimates landslide risk using geographic, weather, and seasonal features. It compares Logistic Regression, Random Forest, and Gradient Boosting, with a Streamlit dashboard and saved model artifacts for the prediction workflow.
 Important: This is an educational/experimental prediction project, not an official early-warning system. Predictions should not be used as the sole basis for safety or emergency decisions.
-
+## Dashboard
+![Screenshot](Screenshot%202026-10-21%20154448.png)
 Table of Contents
 - Overview
 - Objectives
